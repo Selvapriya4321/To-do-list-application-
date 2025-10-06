@@ -1,0 +1,14 @@
+todo-list-app/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...other config files
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   ├── package.json
+│   └── ...other files
+├── README.md
+└── .gitignore
